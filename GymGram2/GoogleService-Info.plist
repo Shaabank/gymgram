@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We would like to access your photos</string>
+	<key>CLIENT_ID</key>
+	<string>961477392253-i6kme417ogf7ftqs1kkbfonaceb5aq17.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.961477392253-i6kme417ogf7ftqs1kkbfonaceb5aq17</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnaE1gU6X_4Kw-KdfWHyjwOx-Hz4StOjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>961477392253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gymgram.GymGram2</string>
+	<key>PROJECT_ID</key>
+	<string>gymgram2-834b1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymgram2-834b1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:961477392253:ios:8a1269b811837bd6c13e14</string>
+</dict>
+</plist>

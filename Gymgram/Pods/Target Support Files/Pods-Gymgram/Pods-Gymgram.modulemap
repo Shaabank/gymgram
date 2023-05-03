@@ -1,0 +1,6 @@
+framework module Pods_Gymgram {
+  umbrella header "Pods-Gymgram-umbrella.h"
+
+  export *
+  module * { export * }
+}

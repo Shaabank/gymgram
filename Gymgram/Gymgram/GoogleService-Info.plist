@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>748160803907-63dd8k9gs98m5fn7stf0n77ets2ilam0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.748160803907-63dd8k9gs98m5fn7stf0n77ets2ilam0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMiYW_LDxT-9LRbMVGnFzRcU-bdAKBUOM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>748160803907</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gymgram.Gymgram</string>
+	<key>PROJECT_ID</key>
+	<string>gymgram-861c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymgram-861c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:748160803907:ios:6d614b9312d8c9fd5020f6</string>
+</dict>
+</plist>
